@@ -1,6 +1,6 @@
 #!/bin?bash
 
-SOURCE_DIR=/home/ec2-user/logs
+SOURCE_DIR=/home/ec2-user/expense-shell/logs
 
 R="\e[31m"
 G="\e[32m"
